@@ -23,3 +23,5 @@ git log --pretty=format:'%C(white)%h %C(red)%d %C(yellow)%s - %C(cyan)%cn, %C(gr
 
 git tag 1.0 -m "release 1.0"
 git tag -a "0.1.beta" -m "release 0.1.beta" hash
+git tag -d "0.2.beta"
+git push --delete origin "0.2.beta"
