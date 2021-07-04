@@ -18,3 +18,5 @@ git stash pop
 git stash clear
 
 git log
+git --oneline
+git log --pretty=format:'%C(white)%h %C(red)%d %C(yellow)%s - %C(cyan)%cn, %C(green)%cr'
