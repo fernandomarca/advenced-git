@@ -11,4 +11,10 @@ git add .
 git add --all
 git commit --amend --no-edit
 
+git stash
+git stash list
+git stash apply
+git stash pop
+git stash clear
+
 git log
