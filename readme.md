@@ -8,3 +8,5 @@ git status
 git status -s
 
 git add .
+git add --all
+git commit --amend --no-edit
