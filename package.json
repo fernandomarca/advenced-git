@@ -1,0 +1,20 @@
+{
+  "name": "advanced-git",
+  "version": "1.0.0",
+  "description": "git config --global --edit git config --edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomarca/advenced-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandomarca/advenced-git/issues"
+  },
+  "homepage": "https://github.com/fernandomarca/advenced-git#readme"
+}
