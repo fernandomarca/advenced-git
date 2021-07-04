@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fernandomarca/advenced-git/issues"
   },
-  "homepage": "https://github.com/fernandomarca/advenced-git#readme"
+  "homepage": "https://github.com/fernandomarca/advenced-git#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
